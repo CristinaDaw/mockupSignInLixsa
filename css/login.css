@@ -1,0 +1,13 @@
+#particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Asegura que el efecto de partículas esté detrás del contenido */
+}
+
+body {
+    background-image: url(https://t3.ftcdn.net/jpg/03/60/94/96/360_F_360949695_Q5UDMDU9Rm1kbMpXcvKcOtAGRFWpvmsB.jpg);
+    background-size: cover;
+}
