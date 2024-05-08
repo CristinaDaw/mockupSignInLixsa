@@ -8,7 +8,6 @@
 }
 
 body {
-    background-image: url(https://t3.ftcdn.net/jpg/03/60/94/96/360_F_360949695_Q5UDMDU9Rm1kbMpXcvKcOtAGRFWpvmsB.jpg);
     background-size: cover;
     z-index: -2; /* Asegura que el efecto de partículas esté detrás del contenido */
 
